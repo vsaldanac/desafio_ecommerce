@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cupon_type: 1
+  amount_type: 1
+  amount: 1
+  used: false
+  order: one
+
+two:
+  cupon_type: 1
+  amount_type: 1
+  amount: 1
+  used: false
+  order: two
